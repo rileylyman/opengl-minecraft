@@ -8,10 +8,6 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{D2FBDDF6-9402-4290-8042-8E62C0FC0934}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{65A3E6E4-F9E4-4389-98BB-734B9C47187D}"
-	ProjectSection(SolutionItems) = preProject
-		Engine\src\Engine\Log.cpp = Engine\src\Engine\Log.cpp
-		Engine\src\Engine\Log.h = Engine\src\Engine\Log.h
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

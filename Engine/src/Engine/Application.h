@@ -12,9 +12,7 @@ namespace Engine {
 		virtual ~Application() {
 		}
 
-		void run() {
-			while (true);
-		}
+		virtual void run() {}
 	};
 
 	Application* create_application();

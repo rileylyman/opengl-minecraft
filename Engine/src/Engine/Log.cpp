@@ -2,8 +2,8 @@
 
 namespace Engine {
 
-	std::shared_ptr<spdlog::logger> _engine_logger;
-	std::shared_ptr<spdlog::logger> _client_logger;
+    std::shared_ptr<spdlog::logger> Log::_engine_logger;
+    std::shared_ptr<spdlog::logger> Log::_client_logger;
 
 	void Log::init() 
 	{
