@@ -5,22 +5,22 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minecraft", "Minecraft\Minecraft.vcxproj", "{E603C89E-7E55-45AE-8465-D75ACCCE2465}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{D2FBDDF6-9402-4290-8042-8E62C0FC0934}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
-		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E603C89E-7E55-45AE-8465-D75ACCCE2465}.Debug|x64.ActiveCfg = Debug|x64
 		{E603C89E-7E55-45AE-8465-D75ACCCE2465}.Debug|x64.Build.0 = Debug|x64
-		{E603C89E-7E55-45AE-8465-D75ACCCE2465}.Debug|x86.ActiveCfg = Debug|Win32
-		{E603C89E-7E55-45AE-8465-D75ACCCE2465}.Debug|x86.Build.0 = Debug|Win32
 		{E603C89E-7E55-45AE-8465-D75ACCCE2465}.Release|x64.ActiveCfg = Release|x64
 		{E603C89E-7E55-45AE-8465-D75ACCCE2465}.Release|x64.Build.0 = Release|x64
-		{E603C89E-7E55-45AE-8465-D75ACCCE2465}.Release|x86.ActiveCfg = Release|Win32
-		{E603C89E-7E55-45AE-8465-D75ACCCE2465}.Release|x86.Build.0 = Release|Win32
+		{D2FBDDF6-9402-4290-8042-8E62C0FC0934}.Debug|x64.ActiveCfg = Debug|x64
+		{D2FBDDF6-9402-4290-8042-8E62C0FC0934}.Debug|x64.Build.0 = Debug|x64
+		{D2FBDDF6-9402-4290-8042-8E62C0FC0934}.Release|x64.ActiveCfg = Release|x64
+		{D2FBDDF6-9402-4290-8042-8E62C0FC0934}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
